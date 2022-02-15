@@ -2,8 +2,11 @@
 Attempts to solve the game Wordle in as few attempts possible, given valid solutions and valid guesses.
 
 Evaluation, given word lists as of 2021-02-15...
+
 AVERGAE GUESSES: 3.47 
+
 GUESS DISTRIBUTION:
+
   1: 0% (0)
   2: 3.6% (83)
   3: 47.7% (1104)
